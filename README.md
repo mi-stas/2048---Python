@@ -1,5 +1,0 @@
-# 2048---Python
-2048 game made with python 3 and PyQt5
-At the beginning, enter your name.
-Control with the arrow keys.
-In the "Игра" tab, you can view Highscores, create a new game, or exit the app.
